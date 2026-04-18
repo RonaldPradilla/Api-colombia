@@ -45,3 +45,13 @@ h1 {
 #grafico {
     width: 100%;
 }
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    padding: 2rem 1rem;
+    color: #555;
+    font-size: 0.9rem;
+    border-top: 1px solid #ddd;
+    width: 100%;
+}
